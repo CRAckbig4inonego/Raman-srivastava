@@ -9,28 +9,24 @@
 
 ---
 
-### 🔭 I’m currently learning  
-- Spring Boot  
-- Data Structures & Algorithms  
-- Java + C++  
+### 🔭 I’m currently learning    
+- C++  
 - Web Development  
 
 ### 💬 Ask me about  
-- C, C++, Java  
-- DSA  
-- Projects & Development  
+- C  
 
 ### 📫 How to reach me  
-**yourgmail@gmail.com**
+**ramansrivastava571@gmail.com**
 
 ---
 
 ## 🌐 Connect with me  
 <p align="left">
-<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+<a href="https://www.linkedin.com/in/ramansrivastavaofficial/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://instagram.com/yourprofile" target="_blank">
+<a href="https://www.instagram.com/ramansrivastava51/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
@@ -49,15 +45,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
-
----
-
-## 📌 Pinned Projects  
-### 🔹 **DSA Solutions**
-A collection of Data Structures and Algorithms solved in C++.
-
-### 🔹 **CRUD App**
-A simple Spring Boot web application with Create-Read-Update-Delete operations.
 
 ---
 
