@@ -1,7 +1,7 @@
 # Raman-srivastava
 <!-- Banner / Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" width="600px">
+  <!-- <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" width="600px"> -->
 </p>
 
 <h1 align="center">Hi 👋, I'm Raman Srivastava</h1>
